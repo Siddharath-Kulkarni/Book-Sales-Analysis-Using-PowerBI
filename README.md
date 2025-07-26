@@ -18,4 +18,5 @@ A Power BI dashboard project focused on analyzing Book Sales, with interactive v
 
 ---
 
-Open the `Book_Store_Analysis.pbix` file in Power BI Desktop to explore the report.
+Open the `PowerBI_Dashboard.pdf` file to get overview of the report.
+Due to size limitation issue I am unable to upload `Book_Store_Analysis.pbix` actual dashboard file 
