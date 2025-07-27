@@ -11,6 +11,7 @@ A Power BI dashboard project focused on analyzing Book Sales, with interactive v
 - `Books.csv` – Raw data source
 - `Customers.csv` – Raw data source
 - `Orders.csv` – Raw data source
+- 'PowerBI_Dashboard.pdf` - Screenshots of Dashboard
 
 ## Tools Used:
 - Power BI Desktop
